@@ -1,0 +1,40 @@
+running egg_info
+creating ../build/prius/prius.egg-info
+writing ../build/prius/prius.egg-info/PKG-INFO
+writing dependency_links to ../build/prius/prius.egg-info/dependency_links.txt
+writing entry points to ../build/prius/prius.egg-info/entry_points.txt
+writing requirements to ../build/prius/prius.egg-info/requires.txt
+writing top-level names to ../build/prius/prius.egg-info/top_level.txt
+writing manifest file '../build/prius/prius.egg-info/SOURCES.txt'
+reading manifest file '../build/prius/prius.egg-info/SOURCES.txt'
+writing manifest file '../build/prius/prius.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build
+creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib
+creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius
+copying prius/__init__.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius
+copying prius/video_save.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius
+copying prius/line_following.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius
+running install
+running install_lib
+creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius
+copying /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius/__init__.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius
+copying /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius/video_save.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius
+copying /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius/line_following.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius
+byte-compiling /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius/video_save.py to video_save.cpython-38.pyc
+byte-compiling /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius/line_following.py to line_following.cpython-38.pyc
+running install_data
+creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/ament_index
+creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/ament_index/resource_index
+creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/ament_index/resource_index/packages
+copying resource/prius -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/ament_index/resource_index/packages
+copying package.xml -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/prius
+copying launch/car_on_track.launch.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/prius
+running install_egg_info
+Copying ../build/prius/prius.egg-info to /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius-0.0.0-py3.8.egg-info
+running install_scripts
+Installing line_follower script to /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/prius
+Installing video_saver script to /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/prius
+writing list of installed files to '/home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/install.log'

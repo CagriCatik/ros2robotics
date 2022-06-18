@@ -1,0 +1,48 @@
+[1.039s] Invoking command in '/home/cc/pg-ros/6_ROS2_Robotics/prius/ws/src': PYTHONPATH=/home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/prius build --build-base /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build install --prefix /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius --record /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/install.log --single-version-externally-managed
+[1.190s] /home/cc/.local/lib/python3.8/site-packages/setuptools/dist.py:757: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.190s]   warnings.warn(
+[1.190s] /home/cc/.local/lib/python3.8/site-packages/setuptools/dist.py:757: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[1.190s]   warnings.warn(
+[1.522s] running egg_info
+[1.522s] creating ../build/prius/prius.egg-info
+[1.558s] writing ../build/prius/prius.egg-info/PKG-INFO
+[1.585s] writing dependency_links to ../build/prius/prius.egg-info/dependency_links.txt
+[1.672s] writing entry points to ../build/prius/prius.egg-info/entry_points.txt
+[1.727s] writing requirements to ../build/prius/prius.egg-info/requires.txt
+[1.755s] writing top-level names to ../build/prius/prius.egg-info/top_level.txt
+[1.756s] writing manifest file '../build/prius/prius.egg-info/SOURCES.txt'
+[1.800s] reading manifest file '../build/prius/prius.egg-info/SOURCES.txt'
+[1.801s] writing manifest file '../build/prius/prius.egg-info/SOURCES.txt'
+[1.801s] running build
+[1.801s] running build_py
+[1.801s] creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build
+[1.801s] creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib
+[1.801s] creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius
+[1.801s] copying prius/__init__.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius
+[1.801s] copying prius/video_save.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius
+[1.801s] copying prius/line_following.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius
+[1.801s] running install
+[1.801s] /home/cc/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.801s]   warnings.warn(
+[1.804s] running install_lib
+[1.840s] creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius
+[1.840s] copying /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius/__init__.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius
+[1.840s] copying /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius/video_save.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius
+[1.840s] copying /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build/lib/prius/line_following.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius
+[1.841s] byte-compiling /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius/__init__.py to __init__.cpython-38.pyc
+[1.841s] byte-compiling /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius/video_save.py to video_save.cpython-38.pyc
+[1.841s] byte-compiling /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius/line_following.py to line_following.cpython-38.pyc
+[1.841s] running install_data
+[1.849s] creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/ament_index
+[1.850s] creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/ament_index/resource_index
+[1.850s] creating /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/ament_index/resource_index/packages
+[1.850s] copying resource/prius -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/ament_index/resource_index/packages
+[1.850s] copying package.xml -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/prius
+[1.850s] copying launch/car_on_track.launch.py -> /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/share/prius
+[1.850s] running install_egg_info
+[1.886s] Copying ../build/prius/prius.egg-info to /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages/prius-0.0.0-py3.8.egg-info
+[1.886s] running install_scripts
+[1.961s] Installing line_follower script to /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/prius
+[1.961s] Installing video_saver script to /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/prius
+[1.961s] writing list of installed files to '/home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/install.log'
+[1.975s] Invoked command in '/home/cc/pg-ros/6_ROS2_Robotics/prius/ws/src' returned '0': PYTHONPATH=/home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/prius build --build-base /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/build install --prefix /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/install/prius --record /home/cc/pg-ros/6_ROS2_Robotics/prius/ws/build/prius/install.log --single-version-externally-managed

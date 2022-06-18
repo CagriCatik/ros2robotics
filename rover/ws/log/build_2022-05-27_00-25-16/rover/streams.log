@@ -1,0 +1,27 @@
+[1.022s] Invoking command in '/home/cc/pg-ros/6_ROS2_Robotics/ws/src/rover': PYTHONPATH=/home/cc/pg-ros/6_ROS2_Robotics/ws/install/rover/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rover build --build-base /home/cc/pg-ros/6_ROS2_Robotics/ws/build/rover/build install --prefix /home/cc/pg-ros/6_ROS2_Robotics/ws/install/rover --record /home/cc/pg-ros/6_ROS2_Robotics/ws/build/rover/install.log --single-version-externally-managed
+[1.170s] /home/cc/.local/lib/python3.8/site-packages/setuptools/dist.py:757: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.170s]   warnings.warn(
+[1.170s] /home/cc/.local/lib/python3.8/site-packages/setuptools/dist.py:757: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[1.170s]   warnings.warn(
+[1.495s] running egg_info
+[1.531s] writing ../../build/rover/rover.egg-info/PKG-INFO
+[1.558s] writing dependency_links to ../../build/rover/rover.egg-info/dependency_links.txt
+[1.642s] writing entry points to ../../build/rover/rover.egg-info/entry_points.txt
+[1.697s] writing requirements to ../../build/rover/rover.egg-info/requires.txt
+[1.724s] writing top-level names to ../../build/rover/rover.egg-info/top_level.txt
+[1.769s] reading manifest file '../../build/rover/rover.egg-info/SOURCES.txt'
+[1.769s] writing manifest file '../../build/rover/rover.egg-info/SOURCES.txt'
+[1.769s] running build
+[1.769s] running build_py
+[1.770s] running install
+[1.770s] /home/cc/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.770s]   warnings.warn(
+[1.773s] running install_lib
+[1.808s] running install_data
+[1.817s] running install_egg_info
+[1.852s] removing '/home/cc/pg-ros/6_ROS2_Robotics/ws/install/rover/lib/python3.8/site-packages/rover-0.0.0-py3.8.egg-info' (and everything under it)
+[1.852s] Copying ../../build/rover/rover.egg-info to /home/cc/pg-ros/6_ROS2_Robotics/ws/install/rover/lib/python3.8/site-packages/rover-0.0.0-py3.8.egg-info
+[1.853s] running install_scripts
+[1.925s] Installing avoidance script to /home/cc/pg-ros/6_ROS2_Robotics/ws/install/rover/lib/rover
+[1.925s] writing list of installed files to '/home/cc/pg-ros/6_ROS2_Robotics/ws/build/rover/install.log'
+[1.940s] Invoked command in '/home/cc/pg-ros/6_ROS2_Robotics/ws/src/rover' returned '0': PYTHONPATH=/home/cc/pg-ros/6_ROS2_Robotics/ws/install/rover/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rover build --build-base /home/cc/pg-ros/6_ROS2_Robotics/ws/build/rover/build install --prefix /home/cc/pg-ros/6_ROS2_Robotics/ws/install/rover --record /home/cc/pg-ros/6_ROS2_Robotics/ws/build/rover/install.log --single-version-externally-managed
